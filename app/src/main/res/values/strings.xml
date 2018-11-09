@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_placeholder">Enter City Name :</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="city_name">City Name</string>
+    <string name="temperature">Temperature</string>
+    <string name="min_max">Min Max</string>
+    <string name="action_favorite">Favourite</string>
+    <string name="refersh">Refresh</string>
+    <string name="error_message">You don\'t have any location selected for the project, kindly use the icons avaliable in the menu bar above or select current location.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="rainy">#2c3e50</color>
+    <color name="rainyCard">#34495e</color>
+
+    <color name="colorMistBackground">#2980b9</color>
+    <color name="colorMistCard">#3498db</color>
+
+    <color name="colorClearSkyBackground">#d35400</color>
+    <color name="colorClearSkyCard">#e67e22</color>
+
+    <color name="colorSnow">#16a085</color>
+    <color name="colorCardSnow">#1abc9c</color>
+
+    <color name="colorCloud">#27ae60</color>
+    <color name="colorCardCloud">#2ecc71</color>
+
+    <color name="colorBlack">#000000</color>
+
+</resources>
